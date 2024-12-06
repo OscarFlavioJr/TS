@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.num {
+  font-size: 700px;
+  position: absolute;
+  top: 0;
+  left: 30%;
+}
+
+.minus {
+  font-size: 600px;
+  position: absolute;
+  top: 7%;
+  background-color: transparent;
+  border: none;
+  left: 15%;
+  cursor: pointer;
+}
+
+.plus {
+  font-size: 600px;
+  position: absolute;
+  top: 7%;
+  background-color: transparent;
+  border: none;
+  left: 68%;
+  cursor: pointer;
+}
